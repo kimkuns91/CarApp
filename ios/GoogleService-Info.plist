@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>40515834987-60b4s9hjvb3r6s3805o5kueq1jrnjrri.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.40515834987-60b4s9hjvb3r6s3805o5kueq1jrnjrri</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcm_c9Wc5ktwAXRSLTRGOe6Y14M43q6uQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>40515834987</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wevibe.CarApp</string>
+	<key>PROJECT_ID</key>
+	<string>carapp-b16ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>carapp-b16ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:40515834987:ios:369e5b7c81d5d23592cd2e</string>
+</dict>
+</plist>

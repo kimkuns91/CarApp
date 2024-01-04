@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "40515834987",
+    "project_id": "carapp-b16ec",
+    "storage_bucket": "carapp-b16ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40515834987:android:058d7a99d8f8ea0192cd2e",
+        "android_client_info": {
+          "package_name": "com.wevibe.CarApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40515834987-6u0slsc6c00216vpbr8827gmbqe73kco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4WK3e9xOOYn_Ca1k0ToxI0JfUPbYd9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40515834987-6u0slsc6c00216vpbr8827gmbqe73kco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40515834987-60b4s9hjvb3r6s3805o5kueq1jrnjrri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wevibe.CarApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
